@@ -1,3 +1,11 @@
+# Project Coin Flip local files
+pcf_gpt_key.txt
+.env
+coin_flip.db
+output/
+custom_resume_json/
+matched_jobs.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
