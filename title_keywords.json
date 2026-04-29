@@ -1,0 +1,37 @@
+{
+  "include": [
+    "security",
+    "cyber",
+    "threat",
+    "intelligence",
+    "incident",
+    "response",
+    "soc",
+    "detection",
+    "engineer",
+    "systems engineer",
+    "technical support",
+    "customer success",
+    "technical account",
+    "solutions",
+    "solution architect",
+    "sales engineer",
+    "strategic accounts",
+    "federal",
+    "public sector",
+    "technical program manager"
+  ],
+  "exclude": [
+    "intern",
+    "account executive",
+    "sales development",
+    "business analyst",
+    "finance",
+    "accounting",
+    "legal",
+    "recruiter",
+    "marketing",
+    "people",
+    "hr"
+  ]
+}
